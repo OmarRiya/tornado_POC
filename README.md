@@ -2,8 +2,9 @@
 A  POC on tornado frame work
 
 # Create virtual enviornment:
-python3 -m venv venv
-python3 venv/bin/activate
+    python3 -m venv venv
+    python3 venv/bin/activate
+    pip install -r requirements.txt
 
 # Create Data base:
     $sudo su postgres
